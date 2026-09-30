@@ -21,3 +21,11 @@ W celu uruchomienia należy
   npm install
   npm run start
   ```
+- w folderze app/xg_app/src pobrać potrzebne biblioteki (React)
+- uruchomić
+ ```
+ npm start
+ ```
+oraz uruchomić skrypt main.py
+
+
